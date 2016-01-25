@@ -1,1 +1,2 @@
 c:\users\vbox-user\documents\visual studio 2015\Projects\GitTest\GitTest\bin\Debug\GitTest.exe.config
+C:\Users\VBOX-USER\Documents\GitHub\GitTest\GitTest\GitTest\bin\Debug\GitTest.exe.config

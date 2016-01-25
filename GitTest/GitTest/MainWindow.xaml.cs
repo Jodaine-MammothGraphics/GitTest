@@ -27,7 +27,7 @@ namespace GitTest
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Test");
+            MessageBox.Show("Test33");
         }
     }
 }
